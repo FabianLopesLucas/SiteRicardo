@@ -221,7 +221,7 @@
 		<!-- End Main Slider Section -->
 
 		<div class="baguetteBoxOne gallery">
-			<div class="embeda-album-default" id="RGhGMU5lVGYxeXFUWlRlRm5aTGRyZz09" data-app="portfolio"></div>
+			<div class="embeda-portfolio-default" id="R2xUK21ILzI0UG1mV1FFc0VlZXcrQT09" data-app="portfolio"></div>
 			<script>
 				(function(d, s, id) {
 					var js;
