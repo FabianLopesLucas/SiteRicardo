@@ -10,3 +10,5 @@ RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME}\.html -f
 RewriteRule ^([^/]+)/?$ $1.html [L]
 
+RewriteEngine On
+RewriteRule ^faq\.html$ https://www.google.com [R=302,L]
